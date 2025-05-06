@@ -1,6 +1,5 @@
-package TicTakToe;
-import java.util.Scanner;
 
+import java.util.Scanner;
 
 public class Main {
     //const
