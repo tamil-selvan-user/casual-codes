@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Main {
+public class XO_Game{
     //const
     static char[][] boardVal = {{'1','2','3'},{'4','5','6'},{'7','8','9'}}; //board initial val
     static int boardFillingCount = 0;
