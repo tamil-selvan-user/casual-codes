@@ -1,4 +1,8 @@
-
+/*
+Created by : This game was created by `tamil-selvan-v`.
+Repository name : `casual-codes`  repo.
+About : XO game created in Java language.
+*/
 import java.util.Scanner;
 
 public class XO_Game{
